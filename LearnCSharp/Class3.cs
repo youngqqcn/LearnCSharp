@@ -11,7 +11,7 @@ namespace LearnCSharp
         protected int width, height;
 
         public VirtualShape(int w, int h)
-        {
+        {///
             width = w;
             height = h;
         }
