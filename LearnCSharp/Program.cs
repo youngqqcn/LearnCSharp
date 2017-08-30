@@ -10,6 +10,8 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello Csharp");
+            Console.Read();
         }
     }
 }
